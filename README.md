@@ -1,3 +1,7 @@
+POR ALGUNA RAZON SE SINCRONIZARON 2 ARCHIVOS CON DIFERENTE NOMBRE Y CON TANTA CONFUSION EN LA CONFIGURACION DE GITHUB, SUPONGO
+QUE EN ESE MOMENTO PASÓ. PUEDEN EJECUTAR CUALQUIERA DE LOS 2, CUMPLEN CON LOS MISMOS OBJETIVOS DE LA TAREA.
+
+
 Para la realización de este proyecto, fue algo muy novedoso para mi ya que nunca habia programado en Python, tengo nociones basicas de logica de programacion, 
 pero no lo he podido llevar al nivel profesional, en este nuevo proceso de me costo mucho aceptar adaptarme a la sintaxis de Python y a la manera de realizar 
 los tutoriales sobre todo el de Github porque el tutorial esta un poco desfasado, tuve que aceptar y adaptarme obligatoriamente y empezar a leer e investigar
