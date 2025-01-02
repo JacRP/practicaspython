@@ -46,7 +46,7 @@ print(f"Nombre(s): {nombre}\nApellido Paterno: {ap}\nApellido Materno: {am}")#se
 print(f"Edad: {edad} años.\nPeso: {peso} kg.\nEstatura: {estatura} metros")
 print(f"Su Indice de Masa Corporal (IMC) es: {imc:.2f}")
 #para imprimir varias variables y texto a la vez
-
+#A mi forma logica de entender y validar el IMC se compara el resultado para interpretar la condición en la que se encuentra la persona
 if imc <= 18.9:
     print(f"{nombre} {ap} {am}, se encuentra en un PESO BAJO")
 else:
